@@ -16,6 +16,6 @@ public class Solution1010 {
     }
 
     public static void main(String[] args) {
-        System.out.println(numPairsDivisibleBy60(new int[]{30, 20, 150, 100, 40}));
+        System.out.println(numPairsDivisibleBy60(new int[]{30, 20, 150, 100, 40,20,32,31}));
     }
 }
